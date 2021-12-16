@@ -1,0 +1,84 @@
+
+body {
+  background-color: rgb(185,186,189);
+}
+
+.title-container{
+  height: 40vh;
+
+  background-color: rgb(185,186,189);
+}
+
+
+.title-hello {
+  font-size: 10rem;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.title-name {
+  font-size: 4rem ;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+
+  position: relative;
+  top: -2.5rem;
+
+  color: rgb(230,230,230);
+  background-color: #654321;
+}
+
+.title-tag{
+  font-size: 2rem;
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+
+  position: relative;
+  top: -2.5rem;
+
+
+}
+
+.about-me-container {
+  width: 80vw;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  margin-left: 10vw;
+
+  background-color: #654321
+}
+
+.about-me-image {
+  height: 20vw;
+  width: 20vw;
+
+  border-radius: 100%;
+
+}
+
+.about-me-text{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+
+ padding-left: 5% !important;
+ padding-right: 5% !important;
+
+  color: rgb(230,230,230)
+}
+
+.contact-me-container{
+  margin-top: 20vh;
+  margin-bottom: 20vh;
+
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.contact-me-icon{
+  width: 4rem;
+  height: 4rem;
+}
